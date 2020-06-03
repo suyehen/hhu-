@@ -1,0 +1,90 @@
+@charset "utf-8";
+input{
+    outline:none;                       /*取消输入框的高亮*/
+    border: 0;                          /*取消文本框的边框*/
+    }
+.bgstyle{
+    background-image: url(../img/login_bg.jpg);
+    width:595px; 
+    height:355px; 
+    margin:0 auto;
+    margin-top:170px;
+    font-size: 1.2em;
+    line-height:1.8;
+}
+p.logo01{
+    position: relative;
+    left:15px;
+    top:20px;
+}
+.text01{
+    position:relative;
+    top:-10px;
+    left:35px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    width: 200px;
+    font-size: 50px;
+}
+.text02{
+    position: relative;
+    top:-50px;
+    left:51px;
+    width: 200px;
+    font-size: 18px;
+}
+.text03{
+    position: relative;
+    top:-220px;
+    left: 295px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+.text04{
+    position: relative;
+    top:-240px;
+    left: 295px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+.text05{
+    position: relative;
+    top:-50px;
+    left: 65px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 29px;
+}
+.usrname{
+    background-image: url(../img/login02.jpg);
+    width: 138px;
+    height: 21px;
+    margin-left: 0px;
+    top:20px;
+    padding-left: 30px;
+}
+.password{
+    background-image: url(../img/login03.jpg);
+    width: 138px;
+    height: 21px;
+    margin-left: 0px;
+    padding-left: 30px;
+}
+.submit{
+    position: relative;
+    width: 50px;
+    height: 40px;
+    top: -220px;
+    left: 340px;
+}
+.reset{
+    position: relative;
+    width: 50px;
+    height: 40px;
+    top: -220px;
+    left:360px;
+}
+.register{
+    position: relative;
+    top:-170px;
+    left:180px;
+}

@@ -1,0 +1,27 @@
+@charset "utf-8";
+.table_frame{
+    position: relative;
+    text-align: center;
+    left:400px;
+}
+.signin_botton{
+    position: relative;
+    width: 70px;
+    height: 50px;
+    top:30px;
+    left: 665px;
+}
+.signin_botton01{
+    position: relative;
+    width: 70px;
+    height: 50px;
+    top:30px;
+    left: 605px;
+}
+.signin_botton02{
+    position: relative;
+    width: 100px;
+    height: 50px;
+    top:-20px;
+    left: 705px;
+}
